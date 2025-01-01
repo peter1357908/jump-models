@@ -1,3 +1,7 @@
+# retrieved data & output files
+examples/nasdaq/data/*
+examples/nasdaq/plots/*
+
 # Mac system trash
 .DS_Store
 
